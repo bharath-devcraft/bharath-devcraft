@@ -7,7 +7,7 @@ Welcome to my GitHub! I am a passionate **Python Odoo Developer** with expertise
 ## 🚀 About Me  
 I specialize in:  
 - **Backend Development**: Python, Odoo, PostgreSQL, MySQL, MongoDB
-- **Frontend Development**: HTML, CSS, SCSS, JavaScript, Figma Wireframe Design
+- **Frontend Development**: HTML, CSS, SCSS, XML, OWL JS, JavaScript, Figma Wireframe Design
 - **DevOps**: Linux, Docker, Shell Scripting
 - **Reporting**: Odoo Qweb Reports, Jasper Reports
 - **API Development**: RESTful APIs, Integrations
